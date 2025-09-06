@@ -88,11 +88,11 @@ java -cp ".;screens;graph;routing;utils" Driver   # for Windows
 
 ---
 ## 🖼️ Screenshots
-![GUI](resources/GUI picture.png) 
+![GUI](resources/"GUI picture.png") 
 
-![Delay Screen](resources/Delay screen.png)  
+![Delay Screen](resources/"Delay screen.png")  
 
-![Closure Screen](resources/Closure screen.png)
+![Closure Screen](resources/"Closure screen.png")
 
 
 
